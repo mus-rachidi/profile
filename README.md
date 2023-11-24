@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustapha Rachidi</h1>
 <h3 align="center">A passionate Devops from 42 Network</h3>
+
 [![murachid's 42 stats](https://badge.mediaplus.ma/darkblue/murachid)](https://github.com/oakoudad/badge42)
+
 - 💬 Ask me about **Devops/Cloud**
 
 - 📫 How to reach me **mustapha.rachidi.1995@gmail.com**

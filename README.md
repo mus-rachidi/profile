@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mustapha Rachidi</h1>
-<h3 align="center">A passionate Devops from 42 Network</h3>
+<h1 align="center">Hi, I'm Mustapha Rachidi</h1>
+<h3 align="center">A passionate Software from 42 Network</h3>
 
-- 💬 Ask me about **Devops/Cloud**
+- 💬 Ask me about **Software engineer**
 
-- 📫 How to reach me **mustapha.rachidi.1995@gmail.com**
+- 📫 How to reach me **mustapha.rachidi.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

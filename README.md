@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mustapha Rachidi</h1>
 <h3 align="center">A passionate Software from 42 Network</h3>
 
-- 💬 Ask me about **Software engineer**
+- 💬 Ask me about **Software Developer**
 
 - 📫 How to reach me **mustapha.rachidi.dev@gmail.com**
 
